@@ -7,7 +7,10 @@ __pycache__/
 
 # Virtual env
 .venv/
-venv/
+__pycache__/
+*.pyc
+.env
+*.log
 
 # Env + secrets
 .env
@@ -27,3 +30,6 @@ Thumbs.db
 
 # Installers
 *.exe
+c o n f i g . j s o n 
+ 
+ 
