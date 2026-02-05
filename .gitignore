@@ -1,0 +1,29 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual env
+.venv/
+venv/
+
+# Env + secrets
+.env
+*.key
+*.pem
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Data/artifacts
+*.csv
+*.parquet
+*.pkl
+*.joblib
+
+# Installers
+*.exe
